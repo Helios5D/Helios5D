@@ -1,9 +1,21 @@
-👤 Helios | 19 | Paris, France <br />
-🎓 Student at School 42 <br />
- <br />
-About Me <br />
-🔍 Interests: Game Development, Cybersecurity, AI <br />
-💻 Programming Languages: Python, C, GDscript <br />
-🔧 Technologies: VSCode, ZSH, Git, GitHub, Godot <br />
-📚 Currently Learning: C++ <br />
-🌍 Languages: French, English <br />
+## ☀️ Helios
+• Age: 19
+
+• Location: Paris, France
+
+## 🎓 Student at School 42
+## About Me
+• 🔍 Interests:
+Game Development, Cybersecurity, Artificial Intelligence
+
+• 💻 Programming Languages:
+Python, C, GDscript
+
+• 🔧 Technologies:
+VSCode, ZSH, Git, GitHub, Godot
+
+• 📚 Currently Learning:
+C++
+
+• 🌍 Languages:
+French, English
