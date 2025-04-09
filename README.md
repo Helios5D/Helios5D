@@ -9,13 +9,13 @@
 Game Development, Cybersecurity, Artificial Intelligence
 
 • 💻 Programming Languages:
-Python, C, GDscript
+Python, C, C++, Javascript, GDscript
 
 • 🔧 Technologies:
 VSCode, ZSH, Git, GitHub, Godot
 
 • 📚 Currently Learning:
-C++
+React
 
 • 🌍 Languages:
 French, English
