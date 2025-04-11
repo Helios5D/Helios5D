@@ -12,7 +12,7 @@ Game Development, Cybersecurity, Artificial Intelligence
 Python, C, C++, Javascript, GDscript
 
 • 🔧 Technologies:
-VSCode, ZSH, Git, GitHub, Godot
+VSCode, ZSH, Git, GitHub, Godot, SQLite
 
 • 📚 Currently Learning:
 React
