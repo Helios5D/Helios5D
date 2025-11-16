@@ -93,13 +93,9 @@ My interests span across **Software Development** **Game Development**, and **Ar
 
 ---
 
-
-
 <div align="center">
 <br>
 
 **Thanks for visiting! ⭐**
-
-*"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
 </div>
