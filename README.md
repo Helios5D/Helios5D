@@ -14,7 +14,7 @@ My interests span across **Software Development** **Game Development**, and **Ar
 
 ## 🌍 Languages & Location
 
-📍 **Paris, France** • 🎂 **Age: 20**
+📍 **Paris, France** • 🎂 **Age: 21**
 
 🇫🇷 French (Native) | 🇬🇧 English (Fluent) | 🇩🇪 German (Notions)
 
