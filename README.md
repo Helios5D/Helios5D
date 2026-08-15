@@ -71,7 +71,10 @@ My interests span across **Software Development** **Game Development**, and **Ar
 
 ## 🚀 Personal Projects
 
-> *Coming soon - Check back for exciting projects!*
+Currently working on a mobile game called Runumo.. can't wait for it to be ready !
+
+<img width="3360" height="1440" alt="castle" src="https://github.com/user-attachments/assets/3dd84960-9d50-415e-9558-e25b333c8825" />
+
 
 ---
 
